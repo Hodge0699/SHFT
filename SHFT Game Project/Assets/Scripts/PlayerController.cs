@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class playerMovement : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {  // Player movement  Varibles 
     public float PlayerSpeed = 10;
     public CharacterController controller;
